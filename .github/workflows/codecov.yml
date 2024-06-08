@@ -7,9 +7,13 @@ on:
       - synchronize
     branches:
       - main
+      - feat**
+      - fix**
   push:
     branches:
       - main
+      - feat**
+      - fix**
 
 jobs:
   codecov:
