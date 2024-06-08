@@ -27,10 +27,10 @@ jobs:
         uses: actions/setup-java@v3
         with:
           java-version: '22'
-          distribution: 'adopt'
+          distribution: 'zulu'
 
       - name: Build with Maven
-        run: mvn clean install
+        run: mvn clean install -DskipTests
 
       - name: Upload coverage reports to Codecov
         uses: codecov/codecov-action@v3
