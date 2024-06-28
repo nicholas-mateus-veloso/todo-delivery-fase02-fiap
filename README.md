@@ -4,7 +4,7 @@
 
 ----
 
-[![codecov](https://codecov.io/gh/nicholas-mateus-veloso/todo-delivery-fase02-fiap/graph/badge.svg?token=LVO6tvLWEa)](https://codecov.io/gh/nicholas-mateus-veloso/todo-delivery-fase02-fiap)
+[![codecov](https://codecov.io/gh/nicholas-mateus-veloso/api-delivery-fase02-fiap/graph/badge.svg?token=LVO6tvLWEa)](https://codecov.io/gh/nicholas-mateus-veloso/api-delivery-fase02-fiap)
 
 ## SEÇÃO 01 - INFORMAÇÕES DO GRUPO E INTEGRANTES
 
